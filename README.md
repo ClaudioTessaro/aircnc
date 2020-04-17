@@ -2,7 +2,7 @@
     <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
 </h1>
 
-Pré-Requisitos
+PrÃ©-Requisitos
 Node, npm ou Yarn instalados
 
 <h1>Baixando o projeto<h1>
@@ -12,11 +12,7 @@ npm install ou yarn install
 
 Rodando o projeto
 npm start ou yarn start
-
-Autor
-Claudio Aragão Tessaro
-   https://github.com/ClaudioTessaro/crud-estudo>
-    <img alt="GitHub last commit"   </a>
+Crie uma base de dados com o nome teste no mongodb
 
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
