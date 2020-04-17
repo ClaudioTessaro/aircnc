@@ -10,9 +10,9 @@ No cmd git clone https://github.com/ClaudioTessaro/crud-estudo
 
 npm install ou yarn install
 
-Rodando o projeto
-npm start ou yarn start
-Crie uma base de dados com o nome teste no mongodb
+<h1>Rodando o projeto<h1>
+    <p>npm start ou yarn start<p></br>
+<p>Crie uma base de dados com o nome teste no mongodb<p>
 
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
